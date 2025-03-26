@@ -8,7 +8,7 @@ Vision
 
 The vision of DVC is to create a decentralized, transparent, and efficient funding mechanism for startups. By leveraging blockchain technology, this project aims to:
 
-Eliminate middlemen in the venture capital process.
+Eliminate intermediaries in the venture capital process.
 
 Ensure transparency in startup funding.
 
@@ -20,7 +20,7 @@ Future Scope
 
 The DVC module is an initial step towards a fully decentralized venture capital ecosystem. Future enhancements may include:
 
-Automated refund mechanism if funding goals are not met.
+Automated refund mechanisms if funding goals are not met.
 
 Tokenization of investments to allow investors to trade their stakes.
 
@@ -60,24 +60,10 @@ Set up an Aptos development environment
 
 Compile & Deploy
 
-aptos move cnvestor contributions in a ledger.
-
-Installation & Usage
-
-Prerequisites
-
-Install Aptos CLI
-
-Set up an Aptos development environment
-
-Compile & Deploy
-
 aptos move compile
 aptos move publish --profile default
 
-Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.ompile
-aptos move publish --profile default
 
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
