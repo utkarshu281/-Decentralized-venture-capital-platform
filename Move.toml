@@ -1,0 +1,15 @@
+[package]
+name = "Decentralizedventurecapitalplatform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+ VentureCapital = "0x6e418084370f7b835f63352775f52fc905abe4d7eabf50897688c3709a6d97aa"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
